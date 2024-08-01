@@ -1,6 +1,3 @@
-# CODTECH-DevOpsIntern-Task1
-CI/CD PIPELINE WITH JENKINS
-
 Name : K PRIYANKA
 
 Company : CODTECH IT SOLUTIONS
@@ -19,52 +16,21 @@ Set up a continuous integration/continuous deployment (CI/CD) pipeline using Jen
 
 OVERVIEW OF THE PROJECT.
 
-Project : Web Application Portfolio using Java,SpringBoot,Gradle & Jenkins
+Project : 
 
-Objective:
-Set up a continuous integration/continuous deployment (CI/CD) pipeline using Jenkins to automate the build, test, and deployment processes.
+Web Application Portfolio using Java,SpringBoot,Gradle & Jenkins
 
-Key Activities:
+Objective :
 
-Install and Configure Jenkins:
+To create a CI CD pipeline using Jenkins to automate build ,test and deploy process for my web application -portfolio.
 
-*Installed Jenkins on the local machine.
+Key Activities :
 
-*Configured Jenkins with necessary plugins for Git, Gradle, and Java.
+Necessary requirements gathered , Backend development , Set up CI CD pipeline by writing a jenkins file using scripted pipelines
 
-Create a Jenkins Pipeline:
+Tools used :
 
-*Defined a Jenkins pipeline script to automate the build, test, and deployment of a simple web application.
-
-*Used Jenkinsfile for pipeline as code.
-
-Build Process:
-
-*Configured Gradle as the build tool in Jenkins.
-
-*Set up the build process to compile the Java application.
-
-Test Process:
-
-*Integrated JUnit tests into the pipeline.
-
-*Automated the execution of unit tests during the build process.
-
-Deployment Process:
-
-*Configured deployment steps to deploy the application to a local server or cloud environment.
-
-Tools Used:
-
-*Jenkins: For CI/CD automation.
-
-*Java: Programming language for the web application.
-
-*Spring Boot: Framework for building the web application.
-
-*Gradle: Build automation tool.
-
-*JUnit: Testing framework for unit tests.
+Java 17 , SpringBoot , Gradle 7.3 , Jenkins 2.426.3  ,Github
 
 Features:
 
@@ -76,7 +42,7 @@ Features:
 
 >>Pipeline as Code: Use of Jenkinsfile to define the pipeline in code, enabling version control and easy modifications.
 
-Conclusion:
+Outcome:
 
-The CI/CD pipeline with Jenkins significantly improves the efficiency and reliability of the software development process by automating critical steps like building, testing, and deploying the application. This ensures faster delivery of updates and higher software quality, enhancing overall development productivity.
+The project successfully demonstrated setting up a ci/cd pipeline using jenkins, automating the build, test and deployment processes. This ensures that code changes are integrated continuously, tested thoroughly and deployed automatically , streamlining the development workflow and enhancing code quality.
 
